@@ -1,0 +1,5 @@
+venv/
+mlruns/
+logs/
+HOTEL_RESERVATION_SYSTEM.egg-info/
+.vscode/
